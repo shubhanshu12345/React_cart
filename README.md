@@ -1,2 +1,2 @@
-# React_cart
+# CART_REACT
 Created with CodeSandbox
